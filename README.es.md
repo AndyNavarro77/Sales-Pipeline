@@ -82,16 +82,16 @@ El dashboard fue diseñado para usuarios de negocio, con foco en claridad y toma
 
 ### KPIs principales:
 - Total Revenue
-- Total Unidades
+- Venta maxima
 - Ticket Promedio
-- Ventas por Canal
-- Rendimiento por Vendedor
+- Volumen de Ventas
+- Estado de Ventas
 
 ### Visualizaciones:
 - Evolución de ventas (línea temporal)
 - Ventas por producto (barras)
 - Ventas por canal (pie chart)
-- Ranking de vendedores
+- Ventas por vendedores
 
 ---
 
