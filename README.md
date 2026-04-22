@@ -82,16 +82,16 @@ Designed for business users with a focus on clarity and decision-making:
 
 ### Key KPIs:
 - Total Revenue
-- Total Units Sold
+- Max Sale
 - Average Ticket
-- Sales by Channel
-- Sales Performance by Seller
+- Sales Volume
+- Sales Status
 
 ### Visualizations:
-- Sales trends over time (line chart)
-- Sales by product (bar chart)
+- Daily Revenue Trend (line chart)
+- Revenue by Product (bar chart)
 - Channel distribution (pie chart)
-- Seller ranking
+- Revenue by Sales (columns chart)
 
 ---
 
