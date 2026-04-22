@@ -127,4 +127,4 @@ No solo análisis, sino impacto.
 
 Si te interesa este tipo de soluciones o querés discutir oportunidades:
 
-LinkedIn: [TU LINK]
+LinkedIn: [Ver LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
