@@ -93,6 +93,8 @@ El dashboard fue diseñado para usuarios de negocio, con foco en claridad y toma
 - Ventas por canal (pie chart)
 - Ventas por vendedores
 
+![Dashboard Preview](img/image.png)
+
 ---
 
 ## 📈 Impacto en Negocio
