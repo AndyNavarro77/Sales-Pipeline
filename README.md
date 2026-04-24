@@ -93,6 +93,7 @@ Designed for business users with a focus on clarity and decision-making:
 - Channel distribution (pie chart)
 - Revenue by Sales (columns chart)
 
+![Dashboard Preview](img/sales_dashboard.png)
 ---
 
 ## 📈 Business Impact
