@@ -184,7 +184,7 @@ Sales-Pipeline/
 ## 👤 Autor
 
 **Andrés Navarro**
-Analista de Datos · BI · ETL · Python · SQL
+Analista de Datos · BI · ETL · Python · SQL · Automatizacion
 
 [![GitHub](https://img.shields.io/badge/GitHub-AndyNavarro77-black?logo=github)](https://github.com/AndyNavarro77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
